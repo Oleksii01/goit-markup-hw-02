@@ -1,6 +1,6 @@
 body {
 font-family: 'Open Sans', sans-serif ; roboto;
-    color: silver
+    color:#FFFFFF
 }
 .header-link{
     font-weight: 500;
@@ -28,7 +28,6 @@ color: #FFFFFF;
 }
 .main-logo-big{
 font-family: 'Roboto';
-font-style: normal;
 font-size: 56px;
 line-height: 60px;
 text-align: center;
@@ -36,8 +35,7 @@ letter-spacing: 0.02em;
 color: #FFFFFF;
 }
 .main-logo{
-    font-family: 'Roboto';
-font-style: normal;
+font-family: 'Roboto';
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -45,8 +43,7 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .main-lead{
-    font-family: 'Roboto';
-font-style: normal;
+font-family: 'Roboto';
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -54,8 +51,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .picture-logo{
-    font-family: 'Roboto';
-font-style: normal;
+font-family: 'Roboto';
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
@@ -74,7 +70,6 @@ flex-grow: 0;
 }
 .logo{
 font-family: 'Roboto';
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
@@ -100,7 +95,6 @@ flex-grow: 0;
 }
 .logo-pic{
 font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px; 
