@@ -13,9 +13,9 @@
 
 }
     body {
-font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
-background-color: var(--main-background-color);
+     color: #434455;
 }
 .menu-link {
    font-weight: 500;
