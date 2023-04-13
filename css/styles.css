@@ -32,7 +32,8 @@
  }
 
  .header {
- }
+ 
+}
 
  .pege-nav {
  }
@@ -40,7 +41,7 @@
  .logo {
    font-weight: 800;
    font-size: 18px;
-   line-height: 1.33;
+   line-height: 1.17;
    display: flex;
    align-items: center;
    text-transform: uppercase;
@@ -52,7 +53,7 @@
  .header-logo-studio {
    font-weight: 800;
    font-size: 18px;
-   line-height: 1.33;
+   line-height: 1.17;
    display: flex;
    letter-spacing: 0.03em;
    color: var(--title-color);
