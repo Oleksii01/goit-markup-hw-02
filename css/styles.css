@@ -24,11 +24,12 @@
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: var(--title-color);
+   color: #2e2f42;
+
  }
  .menu-link:hover,
  .menu-link:focus {
-   color: var(--hover-focus-color);
+  color: #404bbf;
  }
 
  .header {
@@ -49,7 +50,7 @@
    text-transform: uppercase;
    letter-spacing: 0.03em;
    color: #4d5ae5;
- text-decoration: none;
+   text-transform: uppercase;
 }
 
  .header-logo-studio {
@@ -59,15 +60,19 @@
    display: flex;
    letter-spacing: 0.03em;
    color: var(--title-color);
- }
+ text-transform: uppercase;
+  }
  .footer-logo-studio {
    font-family: "Raleway";
    font-style: normal;
    font-weight: 800;
    font-size: 18px;
    line-height: 1.33;
-   
-   color: var(--team-section-color);
+   display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--team-section-color);
  }
 
  /* ===============/LOGO/============== */
