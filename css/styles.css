@@ -32,12 +32,16 @@
   color: #404bbf;
  }
 
- .header {
- font-family: "Releway" sans-serif;
- font-weight: 800
-
+.header{
+  font-family: "Releway" sans-serif;
+line-height: 1.17;
+letter-spacing: 0.03;
+text-transform: uppercase;
+color: #4d5ae5;
+text-decoration: none;
+font-weight: 800;
+font-size: 18px;
 }
-
  .pege-nav {
  }
  /* ===============LOGO============== */
