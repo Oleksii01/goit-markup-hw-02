@@ -164,15 +164,15 @@
    color: var(--text-color);
  }
  .footer-text-description {
-   font-family: "Releway"sans-serif;
-  font-weight: 400;
+   font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: var(--text-footer-color);
  }
  .footer {
-   background-color: var(--footer-beckgrond-color);
+  font-family: 'Raleway', sans-serif
+  
  }
  /* ==============Team============ */
  .team-section {
@@ -187,7 +187,8 @@
    text-align: center;
    letter-spacing: 0.02em;
    color: var(--title-color);
- }
+   text-decoration: none
+  }
  .team-secondary-text {
    font-size: 16px;
    line-height: 1.5;
