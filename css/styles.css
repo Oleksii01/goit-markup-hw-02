@@ -182,8 +182,18 @@ font-size: 18px;
  }
  .footer {
   font-family: 'Raleway', sans-serif
-  
  }
+ .footer{
+  background-color: #2E2F42;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1.17;
+  color: #4d5ae5;
+  letter-spacing: 0.03em 
+  }
  /* ==============Team============ */
  .team-section {
    background-color: var(--team-section-color);
