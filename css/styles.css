@@ -126,11 +126,12 @@ font-size: 18px;
    background: var(--blue-text-color);
    }
  
-   
+ 
  .button-main:hover,
  .button-main:focus {
    background: var(--hover-focus-color);
- }
+  cursor: pointer;
+  }
 
  .section-hero {
    background: var(--title-color);
@@ -141,15 +142,18 @@ font-size: 18px;
    line-height: 1.07;
    letter-spacing: 0.02em;
    color: var(--main-background-color);
- }
+   text-align: center;
+  }
  .title-text {
    font-size: 36px;
    line-height: 1.11;
+   font-weight: 500;
    text-align: center;
    letter-spacing: 0.02em;
    color: var(--title-color);
-   
- }
+   text-transform: capitalize;
+ 
+  }
 
  /* component */
  .title-description {
@@ -159,7 +163,8 @@ font-size: 18px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: var(--title-color);
- }
+ 
+  }
 
  .text-description {
    font-weight: 400;
