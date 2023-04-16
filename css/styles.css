@@ -139,6 +139,7 @@ font-size: 18px;
  .text-hero {
    font-weight: 700;
    font-size: 56px;
+   font-weight: 500;
    line-height: 1.07;
    letter-spacing: 0.02em;
    color: var(--main-background-color);
@@ -156,7 +157,7 @@ font-size: 18px;
   }
 
  /* component */
- .title-description {
+ .title-description-grid {
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
@@ -166,7 +167,7 @@ font-size: 18px;
  
   }
 
- .text-description {
+ .text-description-grid {
    font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
