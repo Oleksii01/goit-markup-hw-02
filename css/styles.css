@@ -47,25 +47,29 @@ font-size: 18px;
  }
  /* ===============LOGO============== */
  .logo {
-   font-weight: 800;
+  font-family:"Raleway" sans-serif ;
+  font-weight: 800;
    font-size: 18px;
    line-height: 1.17;
    display: flex;
    align-items: center;
    text-transform: uppercase;
    letter-spacing: 0.03em;
-   color: #4d5ae5;
-   text-transform: uppercase;
+   text-decoration: none;
+    color: #4d5ae5;
+   
 }
 
  .header-logo-studio {
-   font-weight: 800;
+   font-family:"Raleway" sans-serif ;
+  font-weight: 800;
    font-size: 18px;
    line-height: 1.17;
    display: flex;
    letter-spacing: 0.03em;
-   color: var(--title-color);
- text-transform: uppercase;
+   text-decoration: none;
+   color: #4d5ae5
+   
   }
  .footer-logo-studio {
    font-family: "Raleway";
