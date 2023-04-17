@@ -19,6 +19,10 @@
     background-color: #ffffff;
     
 }
+.list{
+  font-family:"Raleway",sans-serif;
+text-decoration: none;
+}
 .menu-link {
   font-family: "Raleay", sans-serif;
   font-weight: 500;
