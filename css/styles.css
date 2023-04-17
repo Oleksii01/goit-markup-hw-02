@@ -249,7 +249,7 @@ background-color: #404BBF;
   color: #FFFFFF;
  background-color: #404BBF;
 }
-.portfolio-buttons-all{
+.portfolio-buttons{
   font-family: "Raleway",sans-serif;
   font-weight: 500;
   line-height: 1.5;
@@ -259,14 +259,6 @@ background-color: #404BBF;
   background: #F4F4FD;
 cursor: pointer;
 }
-.portfolio-buttons-web>portfolio-buttons-des>portfolio-buttons-des>portfolio-buttons-mar>portfolio-buttons-app{
-  font-family: "Raleway",sans-serif;
-  font-weight: 500;
-  line-height: 1.5;
-  font-size: 16px;
-  letter-spacing: 0.04em;
-  color: #4d5ae5;
-  background: #F4F4FD;
-cursor: pointer;
 
-}
+
+
