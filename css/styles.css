@@ -39,7 +39,7 @@ text-decoration: none;
  }
 
 .header{
-font-family: "Raleway" sans-serif;
+font-family: "Raleway", sans-serif;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
