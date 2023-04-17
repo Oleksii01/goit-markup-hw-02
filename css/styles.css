@@ -37,7 +37,9 @@ text-decoration: none;
  .menu-link:focus {
   color: #404bbf;
  }
-
+.link{
+  
+}
 .header{
 font-family: "Raleway", sans-serif;
 line-height: 1.17;
