@@ -230,7 +230,7 @@ text-decoration: none;
    font-weight: 500;
    text-align: center;
    letter-spacing: 0.02em;
-   color: var(--title-color);
+   color: #2e2f42;
    text-decoration: none
   }
  .team-secondary-text {
@@ -239,7 +239,7 @@ text-decoration: none;
    line-height: 1.5;
    text-align: center;
    letter-spacing: 0.02em;
-   color: var(--text-color);
+   color:#434455;
  }
 .portfolio-buttons-all:hover{
   color: #FFFFFF;
