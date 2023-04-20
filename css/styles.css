@@ -20,8 +20,7 @@
     
 }
 .list{
-  font-family:"Raleway",sans-serif;
-text-decoration: none;
+  text-decoration: none;
 }
 .menu-link {
   font-family: "Raleay", sans-serif;
@@ -38,7 +37,7 @@ text-decoration: none;
   color: #404bbf;
  }
 .link{
-
+text-decoration: none;
 }
 .header{
 font-family: "Raleway", sans-serif;
