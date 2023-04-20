@@ -224,23 +224,21 @@ text-decoration: none;
    background-color: var(--main-background-color);
  }
  .team-text {
-   
-  font-size: 20px;
-   line-height: 1.2;
    font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
    text-align: center;
    letter-spacing: 0.02em;
    color: #2e2f42;
-   text-decoration: none
+   
   }
  .team-secondary-text {
    font-size: 16px;
-   font-weight: 500;
    line-height: 1.5;
-   text-align: center;
    letter-spacing: 0.02em;
    color:#434455;
- }
+ text-decoration: none;
+  }
 .portfolio-buttons-all:hover{
   color: #FFFFFF;
 background-color: #404BBF;
@@ -250,7 +248,7 @@ background-color: #404BBF;
  background-color: #404BBF;
 }
 .portfolio-buttons{
-  font-family: "Raleway",sans-serif;
+  font-family: "Roboto",sans-serif;
   font-weight: 500;
   line-height: 1.5;
   font-size: 16px;
