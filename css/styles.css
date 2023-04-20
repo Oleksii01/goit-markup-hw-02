@@ -1,4 +1,6 @@
-
+.list {
+    list-style: none;
+}
 :root {
     --main-background-color: #ffffff;
     --footer-beckgrond-color: #2e2f42;
@@ -35,7 +37,8 @@
   color: #404bbf;
  }
 .link{
-text-decoration: none;
+list-style: none;
+  text-decoration: none;
 }
 .header{
 font-family: "Raleway", sans-serif;
@@ -108,11 +111,12 @@ text-decoration: none;
    font-style: normal;
  }
  .phone-number {
-   font-weight: 400;
+   font-family: Roboto;
+  font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: var(--text-color);
+   color: #434455;
  }
  .phone-number:hover,
  .phone-number:focus {
@@ -120,11 +124,12 @@ text-decoration: none;
  }
 
  .mail {
-   font-weight: 400;
+   font-family: Roboto;
+  font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: var(--text-color);
+   color: #434455;
  }
 
  .mail:hover,
@@ -255,3 +260,4 @@ cursor: pointer;
 text-decoration: none;
  }
 
+.mail
