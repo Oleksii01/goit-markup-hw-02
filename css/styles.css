@@ -223,11 +223,11 @@ text-decoration: none;
  .team-img {
    background-color: var(--main-background-color);
  }
-.portfolio-buttons-all:hover{
+.portfolio-buttons:hover{
   color: #FFFFFF;
 background-color: #404BBF;
 }
- .portfolio-buttons-all:focus{
+ .portfolio-buttons:focus{
   color: #FFFFFF;
  background-color: #404BBF;
 }
