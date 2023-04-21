@@ -60,7 +60,7 @@ font-size: 18px;
    text-transform: uppercase;
    letter-spacing: 0.03em;
    text-decoration: none;
-    color: #4d5ae5;
+    color:  #2e2f42;
    
 }
 
@@ -246,10 +246,10 @@ text-decoration: none;
  }
 
 .mail{
-  font-family: Roboto;
+font-family: Roboto;
 font-size: 16px;
-line-height:1,5;
-letter-spacing: 0,02em;
+line-height:1.5;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .mail:hover{
