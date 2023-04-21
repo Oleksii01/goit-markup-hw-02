@@ -101,7 +101,9 @@ text-decoration: none;
 }
  /* ===============/LOGO/============== */
  .menu {
- }
+  list-style: none;
+  text-decoration: none;
+}
  .menu-item {
  font-family: "Raleway",sans-serif;
 text-decoration: none;
