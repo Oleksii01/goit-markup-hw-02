@@ -28,7 +28,7 @@
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: #434455 ;
+   color: #2e2f42;
   }
  .menu-link:hover,
  .menu-link:focus {
@@ -60,7 +60,7 @@ font-size: 18px;
    text-transform: uppercase;
    letter-spacing: 0.03em;
    text-decoration: none;
-    color:  #2e2f42;
+    color: #4D5AE5;
    
 }
 
@@ -253,5 +253,8 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .mail:hover{
+  color: #404bbf;
+}
+.mail:focus{
   color: #404bbf;
 }
