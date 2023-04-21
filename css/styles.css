@@ -60,7 +60,7 @@ font-size: 18px;
    text-transform: uppercase;
    letter-spacing: 0.03em;
    text-decoration: none;
-    color: #4D5AE5;
+    color: #4d5ae5 ;
    
 }
 
@@ -85,7 +85,7 @@ font-size: 18px;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--team-section-color);
+  color: #F4F4FD;
  }
 .logo-link{
   font-family: "Raleway", sans-serif;
@@ -109,7 +109,7 @@ text-decoration: none;
  .address {
    font-style: normal;
  }
- .phone-number {
+ .contact-link {
    font-family: Roboto;
   font-weight: 400;
    font-size: 16px;
@@ -117,9 +117,9 @@ text-decoration: none;
    letter-spacing: 0.02em;
    color: #434455;
  }
- .phone-number:hover,
- .phone-number:focus {
-   color: var(--hover-focus-color);
+ .contact-link:hover,
+ .contact-link:focus {
+   color: #404bbf;
  }
  /* ==========/Contacts/========= */
  .button-main {
