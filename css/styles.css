@@ -28,7 +28,7 @@
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: #2e2f42;
+   color: #434455;
    text-decoration: none;
  
   }
@@ -121,20 +121,6 @@ text-decoration: none;
  }
  .phone-number:hover,
  .phone-number:focus {
-   color: var(--hover-focus-color);
- }
-
- .mail {
-   font-family: Roboto;
-  font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color: #434455;
- }
-
- .mail:hover,
- .mail:focus {
    color: var(--hover-focus-color);
  }
  /* ==========/Contacts/========= */
@@ -261,9 +247,3 @@ cursor: pointer;
 text-decoration: none;
  }
 
- font-family: Roboto;
- font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
