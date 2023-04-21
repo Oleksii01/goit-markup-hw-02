@@ -23,13 +23,12 @@
   text-decoration: none;
 }
 .menu-link {
-  font-family: "Raleay", sans-serif;
-  font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color: #2e2f42;
-   text-decoration: none;
+  font-family: Roboto;
+ font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
  
   }
  .menu-link:hover,
@@ -122,15 +121,6 @@ text-decoration: none;
  .phone-number:hover,
  .phone-number:focus {
    color: var(--hover-focus-color);
- }
-
- .mail {
-   font-family: Roboto;
-  font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color: #434455;
  }
 
  .mail:hover,
@@ -261,3 +251,4 @@ cursor: pointer;
 text-decoration: none;
  }
 
+ 
