@@ -23,7 +23,7 @@
   text-decoration: none;
 }
 .menu-link {
-  font-family: "Raleay", sans-serif;
+  font-family: sans-serif;
   font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
@@ -38,14 +38,7 @@
   text-decoration: none;
 }
 .header{
-font-family: "Raleway", sans-serif;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: var(--blue-text-color) ;
-text-decoration: none;
-font-weight: 800;
-font-size: 18px;
+
 }
  .pege-nav {
  }
@@ -55,36 +48,16 @@ font-size: 18px;
   font-weight: 800;
    font-size: 18px;
    line-height: 1.17;
-   display: flex;
    align-items: center;
    text-transform: uppercase;
    letter-spacing: 0.03em;
    text-decoration: none;
     color: var(--blue-text-color) ;
-   
-}
-
- .header-logo-studio {
-   font-family:"Raleway", sans-serif ;
-  font-weight: 800;
-   font-size: 18px;
-   line-height: 1.17;
-   display: flex;
-   letter-spacing: 0.03em;
-   text-decoration: none;
+   }
+  .header-logo-studio {
    color: var(--title-color);
-   
-  }
+   }
  .footer-logo-studio {
-   font-family: "Raleway";
-   font-style: normal;
-   font-weight: 800;
-   font-size: 18px;
-   line-height: 1.33;
-   display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--team-section-color);
  }
 .logo-link{
@@ -102,15 +75,14 @@ text-decoration: none;
   text-decoration: none;
 }
  .menu-item {
- font-family: "Raleway",sans-serif;
-text-decoration: none;
+ font-family: sans-serif;
+
 }
  /* ==========Contacts========= */
  .address {
    font-style: normal;
  }
  .contact-link {
-   font-family: Roboto;
   font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
@@ -126,7 +98,6 @@ text-decoration: none;
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
-   display: flex;
    align-items: center;
    letter-spacing: 0.04em;
    font-family: inherit;
@@ -147,7 +118,7 @@ text-decoration: none;
  .text-hero {
    font-weight: 700;
    font-size: 56px;
-   font-weight: 500;
+   font-weight: 700;
    line-height: 1.07;
    letter-spacing: 0.02em;
    color: var(--main-background-color);
@@ -156,7 +127,7 @@ text-decoration: none;
  .title-text {
    font-size: 36px;
    line-height: 1.11;
-   font-weight: 500;
+   font-weight: 700;
    text-align: center;
    letter-spacing: 0.02em;
    color: var(--title-color);
@@ -168,7 +139,6 @@ text-decoration: none;
  .title-description {
    font-weight: 500;
    font-size: 20px;
-   line-height: 1.2;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: var(--title-color);
@@ -226,7 +196,7 @@ background-color: var(--hover-focus-color);
   letter-spacing: 0.04em;
   color: var(--blue-text-color);
   background: var(--team-section-color);
-cursor: pointer;
+  cursor: pointer;
 }
 .team-text {
   font-weight: 500;
@@ -242,7 +212,7 @@ cursor: pointer;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:var(--text-color);
-text-decoration: none;
+  text-decoration: none;
  }
 
 .mail{
