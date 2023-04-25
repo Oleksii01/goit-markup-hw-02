@@ -159,19 +159,8 @@ text-decoration: none;
    letter-spacing: 0.02em;
    color: var(--text-footer-color);
  }
- .footer {
-  font-family: 'Raleway', sans-serif
- }
  .footer{
   background-color: var(--footer-beckgrond-color);
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  text-transform: uppercase;
-  text-decoration: none;
-  line-height: 1.17;
-  color: var(--blue-text-color);
-  letter-spacing: 0.03em 
   }
  /* ==============Team============ */
  .team-section {
