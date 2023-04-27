@@ -26,7 +26,6 @@ body {
   text-decoration: none;
 }
 .menu-link {
-  font-family: sans-serif;
   font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
@@ -64,11 +63,13 @@ body {
   color: var(--team-section-color);
  }
 .logo-link{
-  font-family: "Raleway", sans-serif;
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 color: var(--blue-text-color);
 text-decoration: none;
 }
@@ -78,8 +79,6 @@ text-decoration: none;
   text-decoration: none;
 }
  .menu-item {
- font-family: sans-serif;
-
 }
  /* ==========Contacts========= */
  .address {
